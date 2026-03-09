@@ -35,12 +35,8 @@ Me chamo Angelo, tenho 29 anos e sou de São Paulo capital, sou formado em medic
 <p align="center">
   <em>"Transformando bits em palavras humanas."</em>
 </p>
+
 ---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?
 
 
